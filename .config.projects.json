@@ -1,0 +1,8 @@
+{
+    "projects": {
+        "civil-structure-monitoring-dashboard": {
+            "credentialSecret": false
+        }
+    },
+    "activeProject": "civil-structure-monitoring-dashboard"
+}
